@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+    
+    body {
+        background: rgba(232, 231, 232, 0.914);
+        background: radial-gradient(circle, rgb(247, 242, 244) 0%, rgba(246, 239, 242, 0.726) 100%, rgba(4,6,8,0.9445028011204482) 100%);
+    }
+       
+    
+    h4 {
+        font-family: Century Gothic;
+        text-decoration: none;
+        font-size: 23px;
+        padding: 15px;
+        color: rgb(51, 50, 50); 
+        box-shadow: 0 15px 0 0 rgb(230, 174, 197), 0 3px 0 0 #070707;
+    }
+    
+    footer {
+        line-height: 500px;
+        width: 80%;
+        height: 80px;
+        padding: 8 8px;
+    }
+
+    form {
+
+        font-family:Century Gothic;
+        padding: 25px;
+    }
